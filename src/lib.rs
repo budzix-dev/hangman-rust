@@ -1,7 +1,7 @@
 pub mod constants;
 
-use constants::*;
-use rand::seq::SliceRandom;
+pub use constants::*;
+pub use rand::seq::SliceRandom;
 
 pub fn generate_word() -> String {
     WORDS.choose(&mut rand::thread_rng()).unwrap().to_string()

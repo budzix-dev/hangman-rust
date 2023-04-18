@@ -1,7 +1,9 @@
 [package]
-name = "hangman"
+name = "hangman_first_crate_budzix_dev"
 version = "0.1.0"
 edition = "2021"
+description = "Hangman game in Rust, not a serious project, just for fun and to learn Rust"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

@@ -1,3 +1,5 @@
+use hangman_first_crate_budzix_dev::*;
+
 fn main() {
-    hangman::run();
+    run();
 }

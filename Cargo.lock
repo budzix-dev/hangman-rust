@@ -20,7 +20,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "hangman"
+name = "hangman_first_crate_budzix_dev"
 version = "0.1.0"
 dependencies = [
  "rand",
