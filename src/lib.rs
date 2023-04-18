@@ -1,4 +1,4 @@
-mod constants;
+pub mod constants;
 
 use constants::*;
 use rand::seq::SliceRandom;
